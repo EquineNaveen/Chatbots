@@ -87,10 +87,3 @@ The repository includes `test.ipynb` which demonstrates core concepts:
 - **Streamlit**: Web interface
 - **PyPDF**: PDF document parsing
 
-## License
-
-MIT
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
